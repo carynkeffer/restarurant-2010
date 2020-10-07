@@ -30,7 +30,7 @@ class RestaurantTest < Minitest::Test
 
     assert_equal [], restaurant.dishes
   end
-   # I do not understand why this isn't working, so I made an effort and decided to skip so I can move on
+   # I do not understand why this is giving me an error so I made an effort and decided to skip so I can move on
 
   #Iteration 2 Tests:
   def test_it_has_closing_time
